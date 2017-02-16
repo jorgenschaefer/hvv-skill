@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "NextConnectionIntent",
+      "slots": [
+        {
+          "name": "location",
+          "type": "LOCATION"
+        }
+      ]
+    },
+    {
+      "intent": "LastConnectionIntent",
+      "slots": [
+        {
+          "name": "location",
+          "type": "LOCATION"
+        }
+      ]
+    },
+    {
+      "intent": "RouteIntent",
+      "slots": [
+        {
+          "name": "location",
+          "type": "LOCATION"
+        }
+      ]
+    },
+    {
+      "intent": "AuthorIntent"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+AuthorIntent wer hat dich programmiert
+NextConnectionIntent Wann ist die nächste Verbindung
+NextConnectionIntent Wann geht die nächste Verbindung
+NextConnectionIntent Wann ist die nächste Verbindung nach {location}
+NextConnectionIntent Wann geht die nächste Verbindung nach {location}
+NextConnectionIntent Wann ist die nächste Verbindung zum {location}
+NextConnectionIntent Wann geht die nächste Verbindung zum {location}
+NextConnectionIntent Wann ist die nächste Verbindung zu {location}
+NextConnectionIntent Wann geht die nächste Verbindung zu {location}
+LastConnectionIntent Wann ist die letzte Verbindung
+LastConnectionIntent Wann geht die letzte Verbindung
+LastConnectionIntent Wann ist die letzte Verbindung nach {location}
+LastConnectionIntent Wann geht die letzte Verbindung nach {location}
+LastConnectionIntent Wann ist die letzte Verbindung zum {location}
+LastConnectionIntent Wann geht die letzte Verbindung zum {location}
+LastConnectionIntent Wann ist die letzte Verbindung zu {location}
+LastConnectionIntent Wann geht die letzte Verbindung zu {location}
+RouteIntent Wie komme ich nach {location}
